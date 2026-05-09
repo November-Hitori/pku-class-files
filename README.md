@@ -1,2 +1,4 @@
 # pku-class-files
-存放 PKU 课程中我的产出，以及评价，教材用书，等等。不会透露我的得分。
+存放 PKU 课程中我的作业产出。
+
+主文章见：https://www.cnblogs.com/cnyzz/p/20005752
